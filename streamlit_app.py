@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # --- 2. 페이지 타이틀 ---
-st.title("Streamlit 마법 교실 🔮")
+st.title("성현의 첫번째 페이지")
 st.subheader("춘천reamlit_app.py 만들고 다음 내용 복붙해서 집어넣기
 
 import streamlit as st
